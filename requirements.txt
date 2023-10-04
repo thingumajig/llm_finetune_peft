@@ -1,0 +1,7 @@
+# install: 
+# sudo apt-get install libaio1
+# sudo apt-get install libaio-dev   
+
+# in deepspeed/runtime/zero/stage3.py fix: https://www.cnblogs.com/jiangxinyang/p/17330352.html
+accelerate 
+deepspeed
